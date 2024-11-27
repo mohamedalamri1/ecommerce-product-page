@@ -342,7 +342,7 @@ main {
   z-index: 1000;
   box-shadow: 4px 1px 12px #0000004d;
   width: 350px;
-  height: 210px;
+  height: 250px;
   border-radius: 8px;
 }
 @media (max-width: 767px) {
